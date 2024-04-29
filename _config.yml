@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dr Andreas Murr"
 description              : "The website of political scientist Dr Andreas Murr."
-url                      : andreasmurr.com
+url                      : "https://andreasmurr.com"
 baseurl                  : #
 repository               : #
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
