@@ -8,9 +8,10 @@ defaults:
 layout: single
 author_profile: true
 permalink: /publications/
+title: Publications
 ---
 
-**Journal Articles**
+## Journal Articles
 
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
@@ -40,11 +41,11 @@ permalink: /publications/
 
 ["Wisdom of crowds"? A decentralised election forecasting model that uses citizens' local expectations](http://dx.doi.org/10.1016/j.electstud.2011.07.005). **Electoral Studies**.  2011.
 
-**Handbook Chapter**
+## Handbook Chapter
 
 ["Wisdom of Crowds"](https://www.researchgate.net/publication/308985928_Wisdom_of_Crowds) in Kai Arzheimer, Jocelyn Evans & Michael Lewis-Beck (editors). **The Sage Handbook of Electoral Behaviour**.  2017.
 
-**Blog Posts**
+## Blog Posts
 
 [Truss is good news for Labour's electoral prospects](https://blogs.lse.ac.uk/politicsandpolicy/truss-is-good-news-for-labours-electoral-prospects/) (with Steve Fisher). **LSE British Politics and Policy**.  2022.
 
@@ -74,6 +75,6 @@ permalink: /publications/
 
 [Citizens Forecast a Hung Parliament with the Conservatives as the Largest Party](http://blogs.lse.ac.uk/politicsandpolicy/citizens-forecast-a-hung-parliament-with-the-conservatives-as-the-largest-party/).  **LSE British Politics and Policy**.  2015.
 
-**Software**
+## Software
 
 [hot.deck: Multiple Hot-deck Imputation](https://cran.r-project.org/package=hot.deck) (with Skyler Cranmer, Jeff Gill, Natalie Jackson & Dave Armstrong). **R package version 1.0**. 
