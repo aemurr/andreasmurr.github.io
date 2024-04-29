@@ -10,7 +10,7 @@ author_profile: true
 permalink: /
 ---
 
-# About me
+**About me**
 
 Welcome!  I am a political scientist who is interested in elections and statistics.
 
