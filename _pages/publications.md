@@ -10,7 +10,7 @@ author_profile: true
 permalink: /publications/
 ---
 
-# Journal Articles
+<large>**Journal Articles**</large>
 
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
