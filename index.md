@@ -8,9 +8,8 @@ defaults:
 layout: single
 author_profile: true
 permalink: /
+title: About me
 ---
-
-**About me**
 
 Welcome!  I am a political scientist who is interested in elections and statistics.
 
