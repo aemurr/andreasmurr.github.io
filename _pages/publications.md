@@ -35,9 +35,9 @@ title: Publications
 
 [The Wisdom of Crowds: Applying Condorcet's Jury Theorem to Forecasting U.S. Presidential Elections](http://dx.doi.org/10.1016/j.ijforecast.2014.12.002a). **International Journal of Forecasting**.  2015.
 
-[The Party Leadership Model: An Early Forecast of the 2015 British General Election](http://rap.sagepub.com/content/2/2/2053168015583346). **Research & Politics**.  2015.
+[The Party Leadership Model: An Early Forecast of the 2015 British General Election](https://doi.org/10.1177/2053168015583346). **Research & Politics**.  2015.
 
-[Modeling Latent Information in Voting Data with Dirichlet Process Priors](http://pan.oxfordjournals.org/content/23/1/1) (with Richard Traunmüller & Jeff Gill). **Political Analysis**.  2015.
+[Modeling Latent Information in Voting Data with Dirichlet Process Priors](https://doi.org/10.1093/pan/mpu018) (with Richard Traunmüller & Jeff Gill). **Political Analysis**.  2015.
 
 ["Wisdom of crowds"? A decentralised election forecasting model that uses citizens' local expectations](http://dx.doi.org/10.1016/j.electstud.2011.07.005). **Electoral Studies**.  2011.
 
