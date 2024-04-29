@@ -8,7 +8,7 @@ defaults:
 layout: single
 author_profile: true
 permalink: /publications/
-title: Publications
+<!-- title: Publications -->
 ---
 
 ## Journal Articles
