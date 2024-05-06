@@ -43,7 +43,7 @@ title: Publications
 
 ## Book Chapters
 
-[Bürger:innenprognosen in einem Mischwahlsystem: Die deutsche Bundestagswahl 2021 als Testfall](https://doi.org/10.1007/978-3-658-42694-1_15) with (Arndt Leininger, Lukas Stoetzer \& Mark Kayser) in Harald Schoen \& Bernhard Weßels (editors).  **Wahlen und Wähler**.  2024.
+[Bürger:innenprognosen in einem Mischwahlsystem: Die deutsche Bundestagswahl 2021 als Testfall](https://doi.org/10.1007/978-3-658-42694-1_15) with (Arndt Leininger, Lukas Stoetzer & Mark Kayser) in Harald Schoen & Bernhard Weßels (editors).  **Wahlen und Wähler**.  2024.
 
 ["Wisdom of Crowds"](https://www.researchgate.net/publication/308985928_Wisdom_of_Crowds) in Kai Arzheimer, Jocelyn Evans & Michael Lewis-Beck (editors). **The Sage Handbook of Electoral Behaviour**.  2017.
 
