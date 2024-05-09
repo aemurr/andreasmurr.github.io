@@ -6,8 +6,10 @@ main:
     url: "/about/"
   - title: "Publications"
     url: "/publications/"
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Blog posts"
+    url: "/blogposts/"
+  - title: "Software"
+    url: /Software/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "CV"
