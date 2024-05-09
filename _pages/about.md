@@ -21,6 +21,8 @@ My academic work has been [published](/publications/) in the *British Journal of
 
 My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4 (Andreas Murr &#8594; Jeff Gill &#8594; Malay Ghosh &#8594; Gutti Jogesh Babu &#8594; Paul Erdös).
 
+I regularly write [blog posts](/blogposts/) about my research and have written [software](/software/) in the R language.
+
 I have [taught](/teaching/) comparative politics, political sociology, public opinion, causal inference, hierarchical models, and machine learning, among other topics.
 
 
