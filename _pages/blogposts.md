@@ -15,7 +15,7 @@ title: Blog posts
 
 [Truss is good news for Labour's electoral prospects](https://blogs.lse.ac.uk/politicsandpolicy/truss-is-good-news-for-labours-electoral-prospects/) (with Steve Fisher). **LSE British Politics and Policy**.  2022.
 
-[Citizen forecasting suggests Macron will win a comfortable victory over Marine Le Pen](https://blogs.lse.ac.uk/europpblog/2022/04/22/citizen-forecasting-suggests-macron-will-win-a-comfortable-victory-over-marine-le-pen/) (with Yannick Dufresne, Justin Savoie, Bruno Jérôme, & Michael Lewis-Beck). **LSE European Politics and Policy**.  2022.
+[Citizen forecasting suggests Macron will win a comfortable victory over Marine Le Pen](https://blogs.lse.ac.uk/europpblog/2022/04/22/citizen-forecasting-suggests-macron-will-win-a-comfortable-victory-over-marine-le-pen/) (with Yannick Dufresne, Justin Savoie, Bruno Jérôme & Michael Lewis-Beck). **LSE European Politics and Policy**.  2022.
 
 [What do citizens forecast for the 2021 German federal election?](https://electionsetc.com/2021/09/24/what-do-citizens-forecast-for-the-2021-german-federal-election/) **Elections Etc**.  2021.
 
