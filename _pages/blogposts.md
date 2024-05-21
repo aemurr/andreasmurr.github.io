@@ -11,6 +11,8 @@ permalink: /blogposts/
 title: Blog posts
 ---
 
+[Can Mexicans predict the presidential election in June?](https://blog.politics.ox.ac.uk/can-mexicans-predict-the-presidential-election-in-june/) (with Michael Lewis-Beck).  **Oxford University Politics Blog**.  2024.
+
 [Truss is good news for Labour's electoral prospects](https://blogs.lse.ac.uk/politicsandpolicy/truss-is-good-news-for-labours-electoral-prospects/) (with Steve Fisher). **LSE British Politics and Policy**.  2022.
 
 [Citizen forecasting suggests Macron will win a comfortable victory over Marine Le Pen](https://blogs.lse.ac.uk/europpblog/2022/04/22/citizen-forecasting-suggests-macron-will-win-a-comfortable-victory-over-marine-le-pen/) (with Yannick Dufresne, Justin Savoie, Bruno Jérôme, & Michael Lewis-Beck). **LSE European Politics and Policy**.  2022.
