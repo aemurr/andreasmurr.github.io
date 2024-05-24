@@ -11,6 +11,8 @@ permalink: /blogposts/
 title: Blog posts
 ---
 
+[Forecasts suggest Claudia Sheinbaum is likely to win the 2024 Mexican presidential election – though there are mixed signals](https://blogs.lse.ac.uk/usappblog/2024/05/22/forecasts-suggest-claudia-sheinbaum-is-likely-to-win-the-2024-mexican-presidential-election-though-there-are-mixed-signals/) (with Michael Lewis-Beck).  **LSE United States Politics and Policy**.  2024.
+
 [Can Mexicans predict the presidential election in June?](https://blog.politics.ox.ac.uk/can-mexicans-predict-the-presidential-election-in-june/) (with Michael Lewis-Beck).  **Oxford University Politics Blog**.  2024.
 
 [Truss is good news for Labour's electoral prospects](https://blogs.lse.ac.uk/politicsandpolicy/truss-is-good-news-for-labours-electoral-prospects/) (with Steve Fisher). **LSE British Politics and Policy**.  2022.
@@ -25,7 +27,7 @@ title: Blog posts
 
 [The Party Leadership Model predicts a Conservative overall majority](https://electionsetc.com/2019/12/10/the-party-leadership-model-predicts-a-conservative-overall-majority/) (with Steve Fisher). **Elections Etc**.  2019.
 
-[Citizen forecasting 2019: a big win for the Conservatives](https://blogs.lse.ac.uk/politicsandpolicy/citizen-forecasting-2019-a-big-win-for-the-conservatives/) (with Mary Stegmaier & Michael Lewis-Beck). **LSE's British Politics and Policy Blog**.  2019.
+[Citizen forecasting 2019: a big win for the Conservatives](https://blogs.lse.ac.uk/politicsandpolicy/citizen-forecasting-2019-a-big-win-for-the-conservatives/) (with Mary Stegmaier & Michael Lewis-Beck). **LSE British Politics and Policy Blog**.  2019.
 
 [Why vote expectations are a better tool for predicting election results than vote intentions](https://blogs.lse.ac.uk/politicsandpolicy/vote-expections-vs-intentions/) (with Mary Stegmaier & Michael Lewis-Beck). **LSE British Politics and Policy**.  2019.
 
