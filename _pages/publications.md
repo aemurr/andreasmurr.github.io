@@ -23,7 +23,7 @@ title: Publications
 
 [Citizen Forecasts of the 2021 German Election](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EDDAD6C5A36D9518A5D8D970B29A0660/S1049096521000925a.pdf/div-class-title-citizen-forecasts-of-the-2021-german-election-div.pdf) (with Michael Lewis-Beck). **PS: Political Science & Politics**. 2022.
 
-[Do Party Leadership Contests Predict British General Elections?](https://doi.org/10.1016/j.electstud.2021.102342). **Electoral Studies**.  2021.
+[Do Party Leadership Contests Predict British General Elections?](https://doi.org/10.1016/j.electstud.2021.102342)  **Electoral Studies**.  2021.
 
 [Vote Expectations Versus Vote Intentions: Rival Forecasting Strategies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/vote-expectations-versus-vote-intentions-rival-forecasting-strategies/F356B6E348524FDB1EC0B858ECEEE3C2) (with Mary Stegmaier & Michael Lewis-Beck). **British Journal of Political Science**.  2021.
 
@@ -33,7 +33,7 @@ title: Publications
 
 [The Wisdom of Crowds: What do Do Citizens Forecast for the 2015 British General Election?](http://dx.doi.org/10.1016/j.electstud.2015.11.018) **Electoral Studies**.  2016.
 
-[The Wisdom of Crowds: Applying Condorcet's Jury Theorem to Forecasting U.S. Presidential Elections](http://dx.doi.org/10.1016/j.ijforecast.2014.12.002a). **International Journal of Forecasting**.  2015.
+[The Wisdom of Crowds: Applying Condorcet's Jury Theorem to Forecasting U.S. Presidential Elections](https://doi.org/10.1016/j.ijforecast.2014.12.002). **International Journal of Forecasting**.  2015.
 
 [The Party Leadership Model: An Early Forecast of the 2015 British General Election](https://doi.org/10.1177/2053168015583346). **Research & Politics**.  2015.
 
