@@ -11,6 +11,8 @@ permalink: /blogposts/
 title: Blog posts
 ---
 
+[The Party Leadership Model predicts a Labour overall majority](https://electionsetc.com/2024/07/01/the-party-leadership-model-predicts-a-labour-overall-majority/) **Elections Etc**.  2024.  
+
 [Forecasts suggest Claudia Sheinbaum is likely to win the 2024 Mexican presidential election – though there are mixed signals](https://blogs.lse.ac.uk/usappblog/2024/05/22/forecasts-suggest-claudia-sheinbaum-is-likely-to-win-the-2024-mexican-presidential-election-though-there-are-mixed-signals/) (with Michael Lewis-Beck).  **LSE United States Politics and Policy**.  2024.
 
 [Can Mexicans predict the presidential election in June?](https://blog.politics.ox.ac.uk/can-mexicans-predict-the-presidential-election-in-june/) (with Michael Lewis-Beck).  **Oxford University Politics Blog**.  2024.
