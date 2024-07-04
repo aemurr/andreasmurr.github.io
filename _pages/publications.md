@@ -21,7 +21,7 @@ title: Publications
 [Citizen Forecasting: The 2022 French Presidential Elections](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/citizen-forecasting-the-2022-french-presidential-elections/0FBB7FDC3FAF7F41A2E99C595D7753AF) (with Yannick Dufresne, Bruno Jérôme, Michael Lewis-Beck & Justin Savoie).
 **PS: Political Science & Politics**. 2022.
 
-[Citizen Forecasts of the 2021 German Election](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/EDDAD6C5A36D9518A5D8D970B29A0660/S1049096521000925a.pdf/div-class-title-citizen-forecasts-of-the-2021-german-election-div.pdf) (with Michael Lewis-Beck). **PS: Political Science & Politics**. 2022.
+[Citizen Forecasts of the 2021 German Election](https://doi.org/10.1017/S1049096521000925) (with Michael Lewis-Beck). **PS: Political Science & Politics**. 2022.
 
 [Do Party Leadership Contests Predict British General Elections?](https://doi.org/10.1016/j.electstud.2021.102342)  **Electoral Studies**.  2021.
 
