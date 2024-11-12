@@ -13,6 +13,8 @@ title: Publications
 
 ## Journal Articles
 
+Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  Accepted.
+
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
 [Computing Quantities of Interest and Their Uncertainty Using Bayesian Simulation](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/computing-quantities-of-interest-and-their-uncertainty-using-bayesian-simulation/A2D03D8CC3234F82E8A6C9979973B897) (with Richard Traunmüller & Jeff Gill).
