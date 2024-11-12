@@ -13,7 +13,7 @@ title: Publications
 
 ## Journal Articles
 
-Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  Accepted.
+Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  2025.
 
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
