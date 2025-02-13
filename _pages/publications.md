@@ -13,7 +13,9 @@ title: Publications
 
 ## Journal Articles
 
-Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  2025.
+Election Forecasting: Political Economy Models (with Lewis-Beck, Michael, John Kenny, Debra Leiter Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
+
+Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  Forthcoming.
 
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
