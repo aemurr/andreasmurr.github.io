@@ -13,7 +13,7 @@ title: Publications
 
 ## Journal Articles
 
-Election Forecasting: Political Economy Models (with Lewis-Beck, Michael, John Kenny, Debra Leiter Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
+Election Forecasting: Political Economy Models (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
 
 Citizen Forecasts of Mexican Presidential Elections, 2020--2024.  **Política y Gobierno**.  Forthcoming.
 
