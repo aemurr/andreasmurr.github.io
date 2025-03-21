@@ -15,7 +15,7 @@ title: Publications
 
 Citizen Forecasting in a Mixed Electoral System: The 2021 German Federal Election as a Test Case (with Arndt Leininger, Lukas Stoetzer & Mark Kayser).  **International Journal of Forecasting**.  Conditionally Accepted.
 
-Election Forecasting: Political Economy Models (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
+[Election Forecasting: Political Economy Models](https://doi.org/10.1016/j.ijforecast.2025.02.006) (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
 
 [Citizen Forecasts of Mexican Presidential Elections, 2020--2024](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1751).  **Política y Gobierno**.  2025.
 
