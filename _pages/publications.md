@@ -17,7 +17,7 @@ title: Publications
 
 [Election Forecasting: Political Economy Models](https://doi.org/10.1016/j.ijforecast.2025.02.006) (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  Forthcoming.
 
-[Citizen Forecasts of Mexican Presidential Elections, 2020--2024](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1751).  **Política y Gobierno**.  2025.
+[Predicciones ciudadanas de las elecciones presidenciales mexicanas, 2000-2024 [Citizen Forecasts of Mexican Presidential Elections, 2020--2024]](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1751).  **Política y Gobierno**.  2025. [[English version](https://www.researchgate.net/publication/393468465_Citizen_forecasts_of_Mexican_presidential_elections_2000-2024)]
 
 [Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
 
