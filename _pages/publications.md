@@ -13,7 +13,7 @@ title: Publications
 
 ## Journal Articles
 
-[Citizen Forecasting in a Mixed Electoral System: The 2021 German Federal Election as a Test Case](https://doi.org/10.1016/j.ijforecast.2025.03.007) (with Arndt Leininger, Lukas Stoetzer & Mark Kayser).  **International Journal of Forecasting**.  Forthcoming.
+[Citizen Forecasting in a Mixed Electoral System: The 2021 German Federal Election as a Test Case](https://doi.org/10.1016/j.ijforecast.2025.03.007) (with Arndt Leininger, Lukas Stoetzer & Mark Kayser).  **International Journal of Forecasting**.  2026.
 
 [Election Forecasting: Political Economy Models](https://doi.org/10.1016/j.ijforecast.2025.02.006) (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  2025.
 
