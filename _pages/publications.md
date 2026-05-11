@@ -13,6 +13,31 @@ title: Publications
 
 ## Journal Articles
 
+
+- title: "Citizen forecasting in a mixed electoral system: The 2021 German federal election as a test case"
+  authors_html: "<strong>Andreas E. Murr</strong>, Mary Stegmaier, and Michael S. Lewis-Beck"
+  authors: "Murr, A. E., Stegmaier, M., and Lewis-Beck, M. S."
+  venue: "International Journal of Forecasting"
+  year: 2026
+  type: article
+  doi: "TODO-add-DOI"
+  oa_pdf: "https://wrap.warwick.ac.uk/TODO-WRAP-ID/"
+  preprint: "https://osf.io/preprints/socarxiv/TODO/"
+  replication: "https://github.com/andreasmurr/TODO-repo"
+  abstract: >
+    We test citizen forecasting in the 2021 German federal election, a mixed
+    electoral system with both constituency and list votes. We show that
+    asking voters who they expect to win in their own constituency produces
+    forecasts that outperform vote-intention polls.
+  bibtex: |
+    @article{murr2026citizen,
+      title   = {Citizen forecasting in a mixed electoral system: The 2021 German federal election as a test case},
+      author  = {Murr, Andreas E. and Stegmaier, Mary and Lewis-Beck, Michael S.},
+      journal = {International Journal of Forecasting},
+      year    = {2026}
+    }
+
+
 [Citizen Forecasting in a Mixed Electoral System: The 2021 German Federal Election as a Test Case](https://doi.org/10.1016/j.ijforecast.2025.03.007) (with Arndt Leininger, Lukas Stoetzer & Mark Kayser).  **International Journal of Forecasting**.  2026. [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XKHTYB)]
 
 [Election Forecasting: Political Economy Models](https://doi.org/10.1016/j.ijforecast.2025.02.006) (with Lewis-Beck, Michael, John Kenny, Debra Leiter, Onyinye Ogili, Mary Stegmaier & Charles Tien).  **International Journal of Forecasting**.  2025.
