@@ -19,17 +19,17 @@ title: Publications
 
 [Citizen Forecasts of Mexican Presidential Elections, 2020--2024](http://politicaygobierno.cide.edu/index.php/pyg/article/view/1751).  **Política y Gobierno**.  2025. [[English version](https://www.researchgate.net/publication/393468465_Citizen_forecasts_of_Mexican_presidential_elections_2000-2024)] [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X5MXHA)]
 
-[Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024.
+[Voters' Expectations in Constituency Elections Without Local Polls](https://doi.org/10.1093/poq/nfae015) (with Lukas Stoetzer, Mark Kayser & Arndt Leininger).  **Public Opinion Quarterly**.  2024. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/184945/1/WRAP-voters-expectations-constituency-elections-without-local-polls-Murr-2024.pdf)] [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Z6QZ8F)]
 
 [Computing Quantities of Interest and Their Uncertainty Using Bayesian Simulation](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/computing-quantities-of-interest-and-their-uncertainty-using-bayesian-simulation/A2D03D8CC3234F82E8A6C9979973B897) (with Richard Traunmüller & Jeff Gill).
 **Political Science Research and Methods**. 2023. [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ONY6WJ)]
 
 [Citizen Forecasting: The 2022 French Presidential Elections](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/citizen-forecasting-the-2022-french-presidential-elections/0FBB7FDC3FAF7F41A2E99C595D7753AF) (with Yannick Dufresne, Bruno Jérôme, Michael Lewis-Beck & Justin Savoie).
-**PS: Political Science & Politics**. 2022.
+**PS: Political Science & Politics**. 2022. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/162995/1/WRAP-citizen-forecasting-2022-French-presidential-election-Murr-2022.pdf)]
 
-[Citizen Forecasts of the 2021 German Election](https://doi.org/10.1017/S1049096521000925) (with Michael Lewis-Beck). **PS: Political Science & Politics**. 2022. [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WVTI2K)]
+[Citizen Forecasts of the 2021 German Election](https://doi.org/10.1017/S1049096521000925) (with Michael Lewis-Beck). **PS: Political Science & Politics**. 2022. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/154353/1/WRAP-Citizen-forecasts-2021-German-election-2021.pdf)] [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WVTI2K)]
 
-[Do Party Leadership Contests Predict British General Elections?](https://doi.org/10.1016/j.electstud.2021.102342)  **Electoral Studies**.  2021. [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OBI10H)]
+[Do Party Leadership Contests Predict British General Elections?](https://doi.org/10.1016/j.electstud.2021.102342)  **Electoral Studies**.  2021. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/152051/1/WRAP-Do-party-leadership-contests-forecast-British-gneral-elections-2021.pdf)] [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OBI10H)]
 
 [Vote Expectations Versus Vote Intentions: Rival Forecasting Strategies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/vote-expectations-versus-vote-intentions-rival-forecasting-strategies/F356B6E348524FDB1EC0B858ECEEE3C2) (with Mary Stegmaier & Michael Lewis-Beck). **British Journal of Political Science**.  2021.
 
