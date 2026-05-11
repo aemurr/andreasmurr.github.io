@@ -33,7 +33,7 @@ title: Publications
 
 [Vote Expectations Versus Vote Intentions: Rival Forecasting Strategies](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/vote-expectations-versus-vote-intentions-rival-forecasting-strategies/F356B6E348524FDB1EC0B858ECEEE3C2) (with Mary Stegmaier & Michael Lewis-Beck). **British Journal of Political Science**.  2021. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/113476/1/WRAP-vote-expectations-versus-intentions-strategies-Murr-2019.pdf)] [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9JLCSY)]
 
-[Citizen Forecasting 2020: A State-by-State Experiment](https://doi.org/10.1017/S1049096520001456) (with Michael Lewis-Beck). **PS: Political Science & Politics**.  2021. [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S1594S)]
+[Citizen Forecasting 2020: A State-by-State Experiment](https://doi.org/10.1017/S1049096520001456) (with Michael Lewis-Beck). **PS: Political Science & Politics**.  2021. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/141356/1/WRAP-citizen-forecasting%202020-state-by-state-experiment-Murr-2020.pdf)]  [[Replication archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S1594S)]
 
 [Social Networks and Citizen Election Forecasting: The More Friends the Better](https://www.sciencedirect.com/science/article/pii/S0169207017301371) (with Debra Leiter, Ericka Rascón & Mary Stegmaier). **International Journal of Forecasting**.  2018. [[Preprint](https://wrap.warwick.ac.uk/id/eprint/95184/7/WRAP-social-networks-citizen-election-forecasting-Murr-2017.pdf)]
 
